@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on becoming an AI Engineer
 - 🌱 I’m currently learning how to code with the cs50 course and roadmap.sh
 - 💬 Ask me about my progress!
-- 📫 How to reach me: email me at chasethomason13@gmail.com for ant inquiries
+- 📫 How to reach me: email me at chasethomason13@gmail.com for any inquiries
